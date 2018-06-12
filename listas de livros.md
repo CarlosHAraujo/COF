@@ -1,5 +1,3 @@
-Para quem quer sugestões de leitura:
-
 Sobre o Brasil:
 - Minha Formação, Joaquim Nabuco
 - Queda do Império, Rui Barbosa
