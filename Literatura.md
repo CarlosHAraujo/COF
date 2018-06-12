@@ -1,8 +1,8 @@
 I. Literatura de Ficção
 
-- Machado de Assis – Memórias Póstumas de Brás Cubas [  ]
+- Machado de Assis – Memórias Póstumas de Brás Cubas [ X ]
 - Machado de Assis – Quincas Borba
-- Machado de Assis – Dom Casmurro  [  ]
+- Machado de Assis – Dom Casmurro  [ X ]
 - Machado de Assis – Esaú e Jacó
 - Machado de Assis – Papéis Avulsos
 - Machado de Assis – Histórias Sem Data
@@ -42,11 +42,11 @@ I. Literatura de Ficção
 - Rachel de Queiroz - O Quinze
 - Euclides da Cunha - Os Sertões
 - José Roberto Torero - Terra Papagali
-- Jorge Amado - Capitães de Areia  [  ]
+- Jorge Amado - Capitães de Areia  [ X ]
 - Jorge Amado - A morte e a morte de Quincas berro d'água
 - Jorge Amado - Farda Fardão Camisola de Dormir
 - Jorge Amado - Tenda dos Milagres
-- Jorge Amado - Dona flor e seus maridos [  ]
+- Jorge Amado - Dona flor e seus maridos [ X ]
 - Jorge Amado - Seara Vermelha
 - Jorge Amado - Mar Morto
 - Álvares de Azevedo - Noite na Taverna e Macário
