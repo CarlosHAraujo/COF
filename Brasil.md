@@ -3,7 +3,7 @@ Sobre o Brasil:
 - Queda do Império, Rui Barbosa
 - O Dinossauro, Meira Penna
 - Constituição Moral e Deveres do Cidadão, José da Silva Lisboa
-- 1808, Laurentino Gomes
+- 1808, Laurentino Gomes [ X ]
 - 1822, Laurentino Gomes
 - 1889, Laurentino Gomes
 - O Mínimo que Você Precisa Saber para Não Ser um Idiota, Olavo de Carvalho
