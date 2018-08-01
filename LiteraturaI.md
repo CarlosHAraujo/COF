@@ -12,7 +12,7 @@ I. Literatura de Ficção
 - Lima Barreto – Triste Fim de Policarpo Quaresma
 - Lima Barreto – Vida e Morte de M. J. Gonzaga de Sá
 - Graciliano Ramos – São Bernardo
-- Graciliano Ramos – Vidas Secas
+- Graciliano Ramos – Vidas Secas [LENDO]
 - Graciliano Ramos – Angústia
 - Jorge Amado – Terras do Sem Fim
 - Jorge Amado – Os Velhos Marinheiros
